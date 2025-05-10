@@ -13,18 +13,18 @@ An interactive data analysis project built with Python and Streamlit to uncover 
 - Git
 
 ## 📂 Project Structure
-
-
  - /data
-  - ecommerce_sales_raw.csv
-  - ecommerce_sales_cleaned.csv
- - /output
-  - /charts
- - /src
-  - data_cleaning.py
-  - eda_visuals.py
-  - dashboard.py
-- README.md
+   - ecommerce_sales_raw.csv
+   - ecommerce_sales_cleaned.csv
+ - /output 
+   - /charts
+ - /src 
+   - data_cleaning.py 
+   - eda_visuals.py
+   - dashboard.py
+
+
+
 
 
 ## 📌 How to Run
