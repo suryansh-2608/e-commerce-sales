@@ -14,17 +14,17 @@ An interactive data analysis project built with Python and Streamlit to uncover 
 
 ## 📂 Project Structure
 
-ecommerce-sales-analyzer/
-├── data/
-│   ├── ecommerce_sales_raw.csv
-│   └── ecommerce_sales_cleaned.csv
-├── output/
-│   └── charts/
-├── src/
-│   ├── data_cleaning.py
-│   ├── eda_visuals.py
-│   └── dashboard.py
-└── README.md
+
+ - /data
+  - ecommerce_sales_raw.csv
+  - ecommerce_sales_cleaned.csv
+ - /output
+  - /charts
+ - /src
+  - data_cleaning.py
+  - eda_visuals.py
+  - dashboard.py
+- README.md
 
 
 ## 📌 How to Run
