@@ -1,0 +1,501 @@
+Order ID,Order Date,Product,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region,Customer ID,Segment,Year,Month,Sales Category
+ORD-1000,2023-10-15,Product-887,Furniture,Chairs,414.09,8,0.0,-7.88,South,CUST-7673,Consumer,2023,October,Medium
+ORD-1001,2023-03-31,Product-398,Furniture,Tables,289.71,8,0.3,19.17,East,CUST-3652,Home Office,2023,March,Medium
+ORD-1002,2023-05-05,Product-205,Furniture,Tables,469.34,2,0.1,-72.29,West,CUST-3412,Consumer,2023,May,Medium
+ORD-1003,2023-06-18,Product-267,Furniture,Tables,949.64,6,0.0,118.24,East,CUST-6735,Home Office,2023,June,High
+ORD-1004,2022-03-13,Product-226,Furniture,Tables,249.88,7,0.2,-22.21,South,CUST-6287,Home Office,2022,March,Medium
+ORD-1005,2022-01-01,Product-379,Technology,Phones,814.73,5,0.0,79.47,West,CUST-9796,Home Office,2022,January,High
+ORD-1006,2022-08-08,Product-548,Technology,Phones,525.69,2,0.3,69.11,Central,CUST-8239,Home Office,2022,August,High
+ORD-1007,2023-06-17,Product-324,Furniture,Chairs,319.54,1,0.0,-58.23,West,CUST-5066,Consumer,2023,June,Medium
+ORD-1008,2022-07-16,Product-876,Office Supplies,Paper,561.49,1,0.0,143.04,East,CUST-2389,Consumer,2022,July,High
+ORD-1009,2022-09-18,Product-312,Furniture,Tables,792.98,8,0.1,70.24,West,CUST-5766,Corporate,2022,September,High
+ORD-1010,2023-06-08,Product-988,Technology,Phones,618.13,3,0.3,18.78,South,CUST-5062,Corporate,2023,June,High
+ORD-1011,2022-02-23,Product-478,Furniture,Chairs,46.35,8,0.1,7.29,South,CUST-7789,Consumer,2022,February,Low
+ORD-1012,2023-07-16,Product-781,Office Supplies,Storage,715.01,6,0.1,-52.81,Central,CUST-7583,Corporate,2023,July,High
+ORD-1013,2023-09-19,Product-830,Technology,Accessories,247.45,8,0.3,18.81,Central,CUST-4216,Corporate,2023,September,Medium
+ORD-1014,2023-03-17,Product-686,Furniture,Bookcases,500.89,1,0.2,-1.98,East,CUST-5261,Consumer,2023,March,High
+ORD-1015,2022-11-10,Product-750,Furniture,Chairs,150.97,9,0.0,33.86,East,CUST-4123,Corporate,2022,November,Medium
+ORD-1016,2022-11-16,Product-716,Office Supplies,Paper,512.83,7,0.1,67.67,Central,CUST-4108,Consumer,2022,November,High
+ORD-1017,2023-06-16,Product-147,Furniture,Chairs,702.46,9,0.2,-22.3,East,CUST-2931,Consumer,2023,June,High
+ORD-1018,2023-12-14,Product-555,Furniture,Tables,426.8,2,0.1,13.82,East,CUST-1726,Consumer,2023,December,Medium
+ORD-1019,2022-12-29,Product-365,Furniture,Tables,686.48,1,0.3,0.6,South,CUST-1022,Corporate,2022,December,High
+ORD-1020,2023-12-15,Product-819,Technology,Phones,463.04,6,0.2,-51.86,East,CUST-2480,Consumer,2023,December,Medium
+ORD-1021,2023-05-05,Product-973,Office Supplies,Storage,404.82,6,0.3,56.41,West,CUST-7032,Corporate,2023,May,Medium
+ORD-1022,2023-03-23,Product-717,Technology,Copiers,154.22,6,0.2,-3.05,West,CUST-9153,Consumer,2023,March,Medium
+ORD-1023,2023-05-18,Product-928,Office Supplies,Storage,384.19,3,0.3,10.52,Central,CUST-5685,Consumer,2023,May,Medium
+ORD-1024,2023-10-09,Product-592,Technology,Phones,398.0,3,0.3,0.8,South,CUST-4689,Corporate,2023,October,Medium
+ORD-1025,2022-03-02,Product-422,Office Supplies,Storage,968.52,8,0.2,120.24,East,CUST-1797,Home Office,2022,March,High
+ORD-1026,2022-01-10,Product-150,Office Supplies,Paper,682.32,2,0.2,80.99,East,CUST-3699,Home Office,2022,January,High
+ORD-1027,2022-07-04,Product-974,Furniture,Bookcases,630.88,6,0.0,154.72,Central,CUST-6270,Corporate,2022,July,High
+ORD-1028,2023-02-04,Product-193,Furniture,Tables,170.09,3,0.2,36.89,South,CUST-5273,Consumer,2023,February,Medium
+ORD-1029,2023-08-25,Product-919,Technology,Accessories,965.41,6,0.2,-86.82,Central,CUST-5100,Home Office,2023,August,High
+ORD-1030,2023-12-27,Product-718,Furniture,Bookcases,872.01,3,0.1,-25.05,East,CUST-6369,Home Office,2023,December,High
+ORD-1031,2022-05-31,Product-814,Furniture,Bookcases,614.4,2,0.0,51.64,Central,CUST-3409,Corporate,2022,May,High
+ORD-1032,2023-06-13,Product-483,Office Supplies,Binders,156.11,2,0.1,-12.51,South,CUST-1494,Home Office,2023,June,Medium
+ORD-1033,2022-06-19,Product-115,Technology,Phones,751.84,4,0.1,-47.02,South,CUST-9544,Corporate,2022,June,High
+ORD-1034,2023-10-07,Product-639,Technology,Phones,855.98,10,0.0,143.83,South,CUST-7721,Consumer,2023,October,High
+ORD-1035,2022-08-22,Product-438,Office Supplies,Paper,513.92,4,0.0,-42.8,West,CUST-1121,Consumer,2022,August,High
+ORD-1036,2023-04-07,Product-946,Furniture,Chairs,148.2,6,0.1,32.12,East,CUST-9865,Corporate,2023,April,Medium
+ORD-1037,2023-03-29,Product-411,Furniture,Tables,857.45,6,0.3,-112.26,West,CUST-2805,Home Office,2023,March,High
+ORD-1038,2022-09-29,Product-860,Technology,Accessories,212.02,9,0.3,2.93,West,CUST-4321,Home Office,2022,September,Medium
+ORD-1039,2022-04-07,Product-169,Technology,Phones,985.37,4,0.1,263.73,East,CUST-7243,Corporate,2022,April,High
+ORD-1040,2023-07-13,Product-599,Furniture,Chairs,990.45,10,0.2,164.87,South,CUST-8490,Corporate,2023,July,High
+ORD-1041,2023-09-06,Product-517,Furniture,Chairs,813.17,9,0.1,-96.71,South,CUST-3353,Consumer,2023,September,High
+ORD-1042,2022-01-08,Product-457,Technology,Phones,34.39,10,0.1,-2.63,Central,CUST-1299,Corporate,2022,January,Low
+ORD-1043,2023-03-26,Product-399,Furniture,Bookcases,302.91,10,0.0,88.85,East,CUST-4534,Corporate,2023,March,Medium
+ORD-1044,2022-09-14,Product-915,Furniture,Tables,302.29,9,0.2,2.74,Central,CUST-8158,Consumer,2022,September,Medium
+ORD-1045,2023-08-24,Product-663,Office Supplies,Storage,378.15,4,0.2,47.38,South,CUST-6929,Corporate,2023,August,Medium
+ORD-1046,2023-02-13,Product-674,Technology,Phones,404.72,5,0.2,80.98,East,CUST-6380,Consumer,2023,February,Medium
+ORD-1047,2022-05-18,Product-398,Technology,Phones,29.71,7,0.0,-0.93,Central,CUST-9834,Corporate,2022,May,Low
+ORD-1048,2022-04-13,Product-885,Technology,Phones,962.34,2,0.1,55.64,East,CUST-9601,Consumer,2022,April,High
+ORD-1049,2022-05-31,Product-260,Office Supplies,Binders,987.86,4,0.2,209.87,Central,CUST-1615,Corporate,2022,May,High
+ORD-1050,2023-04-30,Product-205,Office Supplies,Paper,231.15,4,0.3,-20.58,East,CUST-6932,Consumer,2023,April,Medium
+ORD-1051,2023-01-13,Product-972,Furniture,Tables,81.27,6,0.0,-6.68,West,CUST-4866,Consumer,2023,January,Low
+ORD-1052,2022-10-21,Product-255,Technology,Accessories,461.75,3,0.2,-17.09,South,CUST-6755,Corporate,2022,October,Medium
+ORD-1053,2022-06-09,Product-320,Technology,Phones,559.15,6,0.3,84.93,West,CUST-9825,Corporate,2022,June,High
+ORD-1054,2023-04-17,Product-845,Furniture,Chairs,897.1,7,0.2,66.24,East,CUST-8108,Home Office,2023,April,High
+ORD-1055,2022-01-16,Product-209,Technology,Copiers,54.85,6,0.3,8.77,West,CUST-6325,Consumer,2022,January,Low
+ORD-1056,2023-09-16,Product-478,Furniture,Tables,556.69,2,0.1,-84.17,Central,CUST-1023,Home Office,2023,September,High
+ORD-1057,2022-07-02,Product-588,Furniture,Chairs,601.01,9,0.1,-47.38,Central,CUST-2114,Home Office,2022,July,High
+ORD-1058,2022-03-10,Product-752,Technology,Copiers,468.38,6,0.3,19.0,West,CUST-7966,Consumer,2022,March,Medium
+ORD-1059,2023-02-08,Product-787,Office Supplies,Binders,671.57,9,0.2,15.44,West,CUST-3121,Home Office,2023,February,High
+ORD-1060,2023-03-02,Product-504,Furniture,Tables,984.45,10,0.3,43.66,East,CUST-7838,Home Office,2023,March,High
+ORD-1061,2023-01-26,Product-230,Technology,Copiers,495.83,6,0.0,17.0,South,CUST-3445,Home Office,2023,January,Medium
+ORD-1062,2022-03-19,Product-679,Furniture,Chairs,204.7,4,0.2,1.49,Central,CUST-5306,Corporate,2022,March,Medium
+ORD-1063,2022-12-24,Product-614,Technology,Accessories,179.74,6,0.1,-25.41,East,CUST-6770,Home Office,2022,December,Medium
+ORD-1064,2022-03-24,Product-470,Office Supplies,Storage,664.95,3,0.0,-66.77,Central,CUST-1471,Home Office,2022,March,High
+ORD-1065,2023-01-31,Product-671,Technology,Phones,628.72,2,0.3,-34.29,Central,CUST-9781,Consumer,2023,January,High
+ORD-1066,2023-01-19,Product-746,Furniture,Tables,425.93,3,0.2,-9.35,East,CUST-3326,Corporate,2023,January,Medium
+ORD-1067,2022-04-16,Product-847,Furniture,Chairs,288.45,7,0.2,8.81,East,CUST-1167,Home Office,2022,April,Medium
+ORD-1068,2022-02-26,Product-573,Office Supplies,Storage,927.4,2,0.3,-93.82,Central,CUST-9385,Corporate,2022,February,High
+ORD-1069,2023-04-19,Product-149,Office Supplies,Storage,806.5,5,0.3,132.78,West,CUST-8642,Home Office,2023,April,High
+ORD-1070,2022-12-10,Product-572,Furniture,Tables,467.45,10,0.2,-68.67,South,CUST-4839,Consumer,2022,December,Medium
+ORD-1071,2023-11-01,Product-569,Office Supplies,Binders,762.25,2,0.0,-19.45,West,CUST-7976,Home Office,2023,November,High
+ORD-1072,2023-11-13,Product-709,Office Supplies,Binders,792.88,5,0.1,-32.52,South,CUST-6915,Home Office,2023,November,High
+ORD-1073,2022-04-30,Product-793,Office Supplies,Storage,541.48,5,0.1,-27.87,East,CUST-5417,Home Office,2022,April,High
+ORD-1074,2022-03-29,Product-823,Furniture,Chairs,614.81,5,0.1,-26.82,West,CUST-9102,Consumer,2022,March,High
+ORD-1075,2023-11-14,Product-328,Office Supplies,Binders,316.68,4,0.3,48.31,Central,CUST-7292,Corporate,2023,November,Medium
+ORD-1076,2022-03-18,Product-224,Office Supplies,Storage,725.87,7,0.2,28.26,East,CUST-8871,Corporate,2022,March,High
+ORD-1077,2022-12-23,Product-907,Technology,Copiers,624.58,3,0.1,-24.01,Central,CUST-5025,Corporate,2022,December,High
+ORD-1078,2022-08-22,Product-166,Technology,Phones,316.47,5,0.2,16.43,West,CUST-2244,Corporate,2022,August,Medium
+ORD-1079,2023-11-28,Product-133,Furniture,Chairs,762.21,9,0.2,-36.65,West,CUST-2862,Corporate,2023,November,High
+ORD-1080,2023-05-19,Product-751,Technology,Accessories,607.17,7,0.1,6.86,Central,CUST-4317,Corporate,2023,May,High
+ORD-1081,2023-07-12,Product-522,Furniture,Tables,251.08,9,0.1,-28.07,Central,CUST-8173,Home Office,2023,July,Medium
+ORD-1082,2023-10-29,Product-977,Technology,Copiers,64.7,3,0.1,3.04,West,CUST-6669,Consumer,2023,October,Low
+ORD-1083,2023-11-28,Product-740,Office Supplies,Storage,287.07,4,0.0,0.61,West,CUST-3473,Corporate,2023,November,Medium
+ORD-1084,2022-05-20,Product-574,Technology,Copiers,208.5,3,0.1,15.82,South,CUST-4847,Consumer,2022,May,Medium
+ORD-1085,2022-07-03,Product-725,Furniture,Bookcases,335.14,3,0.1,7.3,Central,CUST-4183,Consumer,2022,July,Medium
+ORD-1086,2022-02-15,Product-799,Technology,Copiers,585.16,2,0.0,25.27,East,CUST-1692,Consumer,2022,February,High
+ORD-1087,2023-05-17,Product-785,Technology,Copiers,735.21,4,0.1,113.99,South,CUST-5804,Corporate,2023,May,High
+ORD-1088,2023-04-20,Product-580,Technology,Accessories,436.94,2,0.2,82.77,South,CUST-1452,Home Office,2023,April,Medium
+ORD-1089,2023-08-23,Product-457,Furniture,Bookcases,316.05,9,0.1,11.17,West,CUST-2959,Home Office,2023,August,Medium
+ORD-1090,2023-09-06,Product-391,Furniture,Chairs,273.36,3,0.2,-41.8,South,CUST-9484,Corporate,2023,September,Medium
+ORD-1091,2023-07-19,Product-627,Office Supplies,Binders,86.87,10,0.1,8.79,Central,CUST-1655,Corporate,2023,July,Low
+ORD-1092,2023-03-01,Product-360,Office Supplies,Storage,160.97,7,0.1,-17.41,South,CUST-7199,Consumer,2023,March,Medium
+ORD-1093,2022-03-14,Product-155,Office Supplies,Paper,459.59,4,0.1,-66.79,Central,CUST-2018,Corporate,2022,March,Medium
+ORD-1094,2022-01-10,Product-473,Office Supplies,Binders,465.85,4,0.0,23.12,East,CUST-6778,Corporate,2022,January,Medium
+ORD-1095,2022-11-22,Product-532,Office Supplies,Binders,534.47,1,0.0,150.41,Central,CUST-8457,Corporate,2022,November,High
+ORD-1096,2023-05-12,Product-667,Office Supplies,Storage,399.68,1,0.3,-51.97,East,CUST-4599,Consumer,2023,May,Medium
+ORD-1097,2022-10-28,Product-471,Office Supplies,Storage,229.64,10,0.2,23.81,West,CUST-6581,Corporate,2022,October,Medium
+ORD-1098,2022-10-26,Product-308,Office Supplies,Binders,343.71,4,0.2,0.25,East,CUST-7223,Home Office,2022,October,Medium
+ORD-1099,2023-02-02,Product-611,Technology,Copiers,639.31,8,0.3,-40.82,East,CUST-2672,Consumer,2023,February,High
+ORD-1100,2023-02-22,Product-864,Office Supplies,Paper,197.67,5,0.3,-27.26,South,CUST-2818,Home Office,2023,February,Medium
+ORD-1101,2023-08-01,Product-156,Office Supplies,Paper,930.85,8,0.1,95.71,East,CUST-9039,Consumer,2023,August,High
+ORD-1102,2023-07-08,Product-769,Office Supplies,Paper,451.75,5,0.2,-12.51,Central,CUST-1716,Home Office,2023,July,Medium
+ORD-1103,2023-01-19,Product-729,Office Supplies,Storage,940.94,9,0.0,252.34,East,CUST-8040,Home Office,2023,January,High
+ORD-1104,2023-11-11,Product-282,Technology,Copiers,840.68,4,0.3,-36.87,South,CUST-4190,Home Office,2023,November,High
+ORD-1105,2023-07-16,Product-571,Technology,Phones,432.54,3,0.1,87.46,Central,CUST-4220,Corporate,2023,July,Medium
+ORD-1106,2022-02-09,Product-914,Office Supplies,Storage,963.77,2,0.3,37.11,East,CUST-8575,Consumer,2022,February,High
+ORD-1107,2022-10-28,Product-629,Office Supplies,Paper,858.88,2,0.1,-145.88,South,CUST-4756,Consumer,2022,October,High
+ORD-1108,2023-08-22,Product-486,Technology,Phones,436.94,4,0.2,33.01,South,CUST-1022,Corporate,2023,August,Medium
+ORD-1109,2022-12-19,Product-158,Technology,Phones,139.53,2,0.2,31.27,West,CUST-5106,Corporate,2022,December,Medium
+ORD-1110,2022-12-19,Product-615,Furniture,Bookcases,371.19,1,0.1,37.88,South,CUST-6063,Corporate,2022,December,Medium
+ORD-1111,2023-11-25,Product-611,Technology,Accessories,765.59,6,0.2,116.43,Central,CUST-2838,Consumer,2023,November,High
+ORD-1112,2022-07-22,Product-563,Office Supplies,Storage,195.67,5,0.2,-10.13,East,CUST-8478,Corporate,2022,July,Medium
+ORD-1113,2022-05-06,Product-910,Office Supplies,Binders,570.15,6,0.3,14.86,South,CUST-1592,Corporate,2022,May,High
+ORD-1114,2023-04-06,Product-632,Technology,Copiers,175.12,1,0.1,-1.45,Central,CUST-9022,Consumer,2023,April,Medium
+ORD-1115,2022-07-17,Product-987,Office Supplies,Binders,844.59,3,0.3,176.48,West,CUST-7509,Consumer,2022,July,High
+ORD-1116,2023-04-06,Product-210,Technology,Accessories,904.56,9,0.2,163.6,South,CUST-2162,Home Office,2023,April,High
+ORD-1117,2023-01-21,Product-285,Office Supplies,Binders,773.57,4,0.0,-40.15,Central,CUST-3802,Home Office,2023,January,High
+ORD-1118,2023-10-28,Product-718,Office Supplies,Paper,569.03,3,0.3,51.74,West,CUST-8740,Corporate,2023,October,High
+ORD-1119,2022-10-05,Product-981,Office Supplies,Paper,540.36,8,0.1,-50.06,South,CUST-9807,Corporate,2022,October,High
+ORD-1120,2023-04-07,Product-709,Office Supplies,Binders,165.09,2,0.1,-16.9,West,CUST-2491,Corporate,2023,April,Medium
+ORD-1121,2023-07-17,Product-137,Office Supplies,Binders,31.01,6,0.3,5.05,South,CUST-1749,Home Office,2023,July,Low
+ORD-1122,2023-06-12,Product-191,Technology,Copiers,872.59,8,0.0,160.4,East,CUST-1586,Corporate,2023,June,High
+ORD-1123,2023-04-18,Product-187,Technology,Phones,905.14,7,0.2,158.25,South,CUST-6296,Home Office,2023,April,High
+ORD-1124,2022-10-28,Product-713,Office Supplies,Storage,986.6,4,0.3,-106.97,West,CUST-3602,Home Office,2022,October,High
+ORD-1125,2022-05-31,Product-114,Office Supplies,Storage,584.07,6,0.3,117.09,Central,CUST-6031,Consumer,2022,May,High
+ORD-1126,2022-03-06,Product-289,Office Supplies,Binders,654.71,9,0.0,6.57,West,CUST-9196,Home Office,2022,March,High
+ORD-1127,2023-04-12,Product-753,Office Supplies,Binders,639.52,1,0.0,41.54,Central,CUST-2561,Corporate,2023,April,High
+ORD-1128,2023-05-04,Product-675,Office Supplies,Paper,378.32,7,0.3,54.16,West,CUST-3831,Corporate,2023,May,Medium
+ORD-1129,2023-07-01,Product-241,Furniture,Bookcases,573.09,8,0.3,10.05,West,CUST-4587,Corporate,2023,July,High
+ORD-1130,2023-06-30,Product-851,Furniture,Tables,383.08,5,0.1,-27.75,East,CUST-6083,Corporate,2023,June,Medium
+ORD-1131,2023-11-28,Product-930,Office Supplies,Storage,892.06,9,0.0,-40.68,East,CUST-2638,Consumer,2023,November,High
+ORD-1132,2022-01-25,Product-996,Furniture,Tables,422.44,5,0.1,-54.82,West,CUST-1460,Corporate,2022,January,Medium
+ORD-1133,2023-11-08,Product-379,Office Supplies,Binders,818.67,1,0.3,155.72,East,CUST-8312,Corporate,2023,November,High
+ORD-1134,2022-07-24,Product-122,Technology,Copiers,170.2,10,0.3,-5.11,South,CUST-9792,Corporate,2022,July,Medium
+ORD-1135,2022-07-04,Product-948,Office Supplies,Storage,125.57,1,0.0,-21.29,West,CUST-9884,Home Office,2022,July,Medium
+ORD-1136,2023-02-18,Product-671,Furniture,Tables,858.11,2,0.1,145.09,West,CUST-8121,Corporate,2023,February,High
+ORD-1137,2022-01-06,Product-759,Office Supplies,Paper,403.49,9,0.3,-6.21,East,CUST-8921,Corporate,2022,January,Medium
+ORD-1138,2023-06-04,Product-311,Technology,Copiers,248.86,6,0.1,57.47,Central,CUST-8737,Consumer,2023,June,Medium
+ORD-1139,2023-07-30,Product-803,Office Supplies,Storage,199.46,10,0.0,-28.41,East,CUST-5708,Corporate,2023,July,Medium
+ORD-1140,2022-09-30,Product-509,Office Supplies,Storage,101.6,3,0.2,4.55,East,CUST-7810,Home Office,2022,September,Medium
+ORD-1141,2023-02-28,Product-707,Technology,Phones,442.15,10,0.2,65.14,West,CUST-3676,Home Office,2023,February,Medium
+ORD-1142,2022-05-23,Product-468,Technology,Phones,984.94,9,0.1,217.21,South,CUST-5549,Corporate,2022,May,High
+ORD-1143,2023-05-23,Product-415,Furniture,Tables,479.74,4,0.2,82.96,South,CUST-7215,Home Office,2023,May,Medium
+ORD-1144,2022-10-15,Product-374,Office Supplies,Binders,369.22,1,0.3,40.44,Central,CUST-6721,Consumer,2022,October,Medium
+ORD-1145,2023-10-31,Product-992,Furniture,Tables,950.81,10,0.0,-22.1,East,CUST-3859,Corporate,2023,October,High
+ORD-1146,2022-01-05,Product-918,Furniture,Chairs,316.88,5,0.0,24.92,East,CUST-8109,Consumer,2022,January,Medium
+ORD-1147,2022-06-04,Product-456,Technology,Copiers,668.53,8,0.1,175.8,West,CUST-9197,Corporate,2022,June,High
+ORD-1148,2022-02-22,Product-796,Furniture,Chairs,572.91,3,0.3,-13.74,South,CUST-1381,Consumer,2022,February,High
+ORD-1149,2022-09-23,Product-140,Office Supplies,Paper,946.14,10,0.1,-45.33,West,CUST-7441,Consumer,2022,September,High
+ORD-1150,2022-07-19,Product-137,Furniture,Chairs,672.95,9,0.0,-24.6,East,CUST-1859,Consumer,2022,July,High
+ORD-1151,2022-12-28,Product-142,Technology,Accessories,715.86,2,0.1,166.58,West,CUST-6796,Home Office,2022,December,High
+ORD-1152,2023-06-26,Product-711,Office Supplies,Storage,91.5,9,0.2,-1.95,Central,CUST-7272,Corporate,2023,June,Low
+ORD-1153,2023-10-09,Product-542,Office Supplies,Binders,998.43,1,0.3,-120.1,South,CUST-4960,Home Office,2023,October,High
+ORD-1154,2022-11-02,Product-124,Furniture,Chairs,1000.0,5,0.1,166.48,South,CUST-8445,Consumer,2022,November,High
+ORD-1155,2023-01-08,Product-962,Technology,Copiers,72.25,4,0.0,9.32,South,CUST-8241,Home Office,2023,January,Low
+ORD-1156,2023-03-19,Product-514,Office Supplies,Storage,128.96,2,0.2,-19.69,East,CUST-9376,Consumer,2023,March,Medium
+ORD-1157,2022-08-31,Product-312,Office Supplies,Storage,510.37,10,0.3,46.02,East,CUST-7902,Consumer,2022,August,High
+ORD-1158,2022-05-20,Product-516,Furniture,Chairs,972.58,8,0.0,245.11,East,CUST-7570,Consumer,2022,May,High
+ORD-1159,2022-12-31,Product-490,Technology,Copiers,273.76,8,0.1,-27.94,West,CUST-6819,Consumer,2022,December,Medium
+ORD-1160,2023-04-26,Product-848,Furniture,Bookcases,147.58,3,0.3,22.58,South,CUST-4641,Consumer,2023,April,Medium
+ORD-1161,2022-11-05,Product-748,Furniture,Bookcases,188.38,1,0.2,-9.68,East,CUST-1998,Home Office,2022,November,Medium
+ORD-1162,2022-11-13,Product-548,Furniture,Chairs,366.74,4,0.2,43.69,South,CUST-8905,Corporate,2022,November,Medium
+ORD-1163,2022-03-20,Product-454,Office Supplies,Paper,334.28,3,0.0,86.67,South,CUST-6390,Consumer,2022,March,Medium
+ORD-1164,2022-02-20,Product-847,Technology,Phones,178.21,3,0.0,9.73,East,CUST-2820,Corporate,2022,February,Medium
+ORD-1165,2022-11-13,Product-930,Office Supplies,Paper,219.56,2,0.2,-1.21,South,CUST-3664,Consumer,2022,November,Medium
+ORD-1166,2022-04-09,Product-875,Technology,Accessories,326.17,9,0.3,17.98,South,CUST-7861,Consumer,2022,April,Medium
+ORD-1167,2022-08-20,Product-187,Office Supplies,Binders,988.81,3,0.2,164.24,South,CUST-7388,Consumer,2022,August,High
+ORD-1168,2022-12-10,Product-961,Technology,Copiers,247.46,4,0.2,39.03,West,CUST-6821,Home Office,2022,December,Medium
+ORD-1169,2023-12-25,Product-492,Technology,Phones,888.03,7,0.3,-55.29,East,CUST-2564,Consumer,2023,December,High
+ORD-1170,2022-12-27,Product-692,Office Supplies,Paper,477.59,1,0.2,-41.1,West,CUST-3130,Home Office,2022,December,Medium
+ORD-1171,2023-03-20,Product-999,Furniture,Chairs,217.89,1,0.0,55.78,Central,CUST-8637,Corporate,2023,March,Medium
+ORD-1172,2022-11-30,Product-480,Furniture,Tables,780.08,1,0.0,-142.06,East,CUST-4487,Home Office,2022,November,High
+ORD-1173,2023-06-30,Product-542,Technology,Accessories,581.4,2,0.0,89.05,South,CUST-3512,Home Office,2023,June,High
+ORD-1174,2022-11-09,Product-405,Furniture,Chairs,432.75,4,0.2,-40.07,Central,CUST-6373,Consumer,2022,November,Medium
+ORD-1175,2023-12-23,Product-361,Furniture,Bookcases,46.36,4,0.3,-0.82,Central,CUST-2091,Home Office,2023,December,Low
+ORD-1176,2022-09-27,Product-732,Office Supplies,Storage,946.46,4,0.3,149.09,West,CUST-5511,Corporate,2022,September,High
+ORD-1177,2023-05-18,Product-792,Furniture,Bookcases,304.78,9,0.2,-20.88,East,CUST-8967,Home Office,2023,May,Medium
+ORD-1178,2022-10-29,Product-712,Technology,Phones,433.53,10,0.3,27.64,Central,CUST-3990,Home Office,2022,October,Medium
+ORD-1179,2022-02-11,Product-106,Technology,Phones,229.07,10,0.3,-8.49,West,CUST-5537,Corporate,2022,February,Medium
+ORD-1180,2023-01-22,Product-471,Furniture,Chairs,802.72,9,0.2,125.64,South,CUST-2776,Corporate,2023,January,High
+ORD-1181,2023-08-29,Product-356,Office Supplies,Paper,911.64,9,0.3,-124.47,West,CUST-2879,Corporate,2023,August,High
+ORD-1182,2023-08-22,Product-225,Furniture,Tables,828.08,8,0.1,-98.91,West,CUST-3239,Home Office,2023,August,High
+ORD-1183,2022-12-02,Product-845,Furniture,Chairs,516.26,1,0.0,152.59,East,CUST-9399,Consumer,2022,December,High
+ORD-1184,2023-12-01,Product-684,Technology,Phones,394.73,6,0.1,-0.48,West,CUST-6446,Corporate,2023,December,Medium
+ORD-1185,2022-03-05,Product-134,Technology,Copiers,691.27,8,0.1,173.95,West,CUST-3691,Corporate,2022,March,High
+ORD-1186,2023-07-21,Product-764,Furniture,Tables,456.06,1,0.1,84.83,Central,CUST-6367,Corporate,2023,July,Medium
+ORD-1187,2023-05-30,Product-859,Office Supplies,Storage,886.53,1,0.3,-35.89,East,CUST-3970,Corporate,2023,May,High
+ORD-1188,2022-08-07,Product-274,Office Supplies,Binders,301.34,7,0.3,52.1,West,CUST-8498,Home Office,2022,August,Medium
+ORD-1189,2022-07-07,Product-247,Office Supplies,Paper,991.11,6,0.0,180.78,Central,CUST-2296,Consumer,2022,July,High
+ORD-1190,2023-01-30,Product-380,Office Supplies,Storage,884.5,3,0.0,77.78,West,CUST-6992,Consumer,2023,January,High
+ORD-1191,2023-06-20,Product-298,Furniture,Bookcases,483.84,4,0.3,59.77,East,CUST-4917,Consumer,2023,June,Medium
+ORD-1192,2023-05-04,Product-381,Furniture,Chairs,773.69,8,0.2,147.86,Central,CUST-5777,Corporate,2023,May,High
+ORD-1193,2022-08-28,Product-226,Office Supplies,Binders,501.3,1,0.3,68.2,South,CUST-9268,Home Office,2022,August,High
+ORD-1194,2022-11-27,Product-886,Technology,Phones,332.4,4,0.0,-64.21,Central,CUST-4675,Home Office,2022,November,Medium
+ORD-1195,2023-06-30,Product-668,Office Supplies,Binders,223.09,7,0.1,-22.92,West,CUST-2498,Corporate,2023,June,Medium
+ORD-1196,2023-06-12,Product-662,Office Supplies,Binders,723.29,10,0.2,136.56,Central,CUST-4658,Consumer,2023,June,High
+ORD-1197,2022-04-24,Product-563,Office Supplies,Storage,126.37,9,0.2,18.48,West,CUST-4573,Home Office,2022,April,Medium
+ORD-1198,2023-08-15,Product-402,Technology,Phones,126.47,9,0.3,0.04,Central,CUST-2767,Consumer,2023,August,Medium
+ORD-1199,2022-03-31,Product-268,Furniture,Tables,994.27,9,0.0,-9.22,East,CUST-1608,Corporate,2022,March,High
+ORD-1200,2022-02-08,Product-484,Office Supplies,Binders,918.07,5,0.0,-90.74,South,CUST-6426,Consumer,2022,February,High
+ORD-1201,2023-03-26,Product-843,Technology,Phones,406.94,2,0.1,12.25,Central,CUST-6050,Corporate,2023,March,Medium
+ORD-1202,2023-07-13,Product-265,Office Supplies,Paper,312.53,1,0.2,-4.17,West,CUST-9266,Corporate,2023,July,Medium
+ORD-1203,2022-12-05,Product-845,Office Supplies,Storage,353.97,7,0.2,-32.57,Central,CUST-1664,Consumer,2022,December,Medium
+ORD-1204,2022-03-04,Product-545,Furniture,Bookcases,810.77,2,0.3,128.82,South,CUST-8179,Consumer,2022,March,High
+ORD-1205,2023-08-15,Product-754,Office Supplies,Binders,812.39,4,0.1,200.59,West,CUST-3855,Consumer,2023,August,High
+ORD-1206,2023-11-24,Product-403,Technology,Accessories,597.76,6,0.1,-2.38,South,CUST-6336,Corporate,2023,November,High
+ORD-1207,2022-10-15,Product-326,Technology,Copiers,70.72,7,0.2,8.66,Central,CUST-9732,Corporate,2022,October,Low
+ORD-1208,2022-12-07,Product-104,Technology,Phones,566.21,9,0.3,78.01,Central,CUST-4449,Consumer,2022,December,High
+ORD-1209,2023-09-22,Product-136,Office Supplies,Paper,406.87,1,0.3,83.53,South,CUST-6024,Home Office,2023,September,Medium
+ORD-1210,2023-11-17,Product-968,Furniture,Tables,822.92,3,0.1,212.6,West,CUST-1276,Consumer,2023,November,High
+ORD-1211,2022-03-03,Product-643,Office Supplies,Paper,770.6,4,0.3,149.67,West,CUST-2393,Home Office,2022,March,High
+ORD-1212,2023-09-01,Product-798,Office Supplies,Binders,536.03,4,0.1,-68.23,South,CUST-1639,Corporate,2023,September,High
+ORD-1213,2022-02-24,Product-171,Office Supplies,Binders,124.01,1,0.0,9.4,South,CUST-9135,Consumer,2022,February,Medium
+ORD-1214,2022-12-29,Product-298,Furniture,Chairs,694.35,8,0.1,173.49,East,CUST-6367,Corporate,2022,December,High
+ORD-1215,2023-06-11,Product-124,Furniture,Tables,508.76,1,0.2,47.02,Central,CUST-9709,Consumer,2023,June,High
+ORD-1216,2023-05-14,Product-114,Technology,Phones,242.56,5,0.2,-23.01,East,CUST-6630,Corporate,2023,May,Medium
+ORD-1217,2022-10-12,Product-782,Technology,Phones,413.31,9,0.0,-67.15,South,CUST-4027,Consumer,2022,October,Medium
+ORD-1218,2023-07-15,Product-602,Furniture,Tables,773.62,10,0.3,-38.83,Central,CUST-2051,Consumer,2023,July,High
+ORD-1219,2023-10-06,Product-531,Furniture,Chairs,320.62,9,0.3,12.13,South,CUST-6325,Home Office,2023,October,Medium
+ORD-1220,2022-12-14,Product-315,Office Supplies,Storage,907.36,7,0.3,-40.31,East,CUST-7136,Home Office,2022,December,High
+ORD-1221,2022-01-14,Product-521,Furniture,Tables,414.44,9,0.3,59.49,South,CUST-9529,Consumer,2022,January,Medium
+ORD-1222,2022-04-08,Product-457,Furniture,Chairs,398.34,5,0.2,26.77,West,CUST-2679,Home Office,2022,April,Medium
+ORD-1223,2023-11-02,Product-589,Office Supplies,Storage,67.65,7,0.0,18.95,Central,CUST-6949,Consumer,2023,November,Low
+ORD-1224,2022-09-13,Product-391,Furniture,Bookcases,865.53,2,0.2,138.69,West,CUST-8258,Home Office,2022,September,High
+ORD-1225,2022-03-27,Product-992,Technology,Phones,108.07,6,0.2,-1.23,East,CUST-1377,Home Office,2022,March,Medium
+ORD-1226,2022-11-01,Product-277,Furniture,Tables,84.63,2,0.0,-14.35,South,CUST-6516,Home Office,2022,November,Low
+ORD-1227,2023-12-24,Product-429,Furniture,Chairs,881.11,8,0.0,200.99,South,CUST-5943,Home Office,2023,December,High
+ORD-1228,2022-09-03,Product-594,Office Supplies,Storage,935.45,2,0.1,136.17,South,CUST-9982,Corporate,2022,September,High
+ORD-1229,2022-10-24,Product-619,Technology,Accessories,786.8,9,0.2,9.68,Central,CUST-1982,Consumer,2022,October,High
+ORD-1230,2023-06-27,Product-961,Furniture,Chairs,893.26,6,0.3,-37.64,Central,CUST-4881,Home Office,2023,June,High
+ORD-1231,2023-07-26,Product-689,Technology,Accessories,528.13,6,0.0,60.39,East,CUST-3473,Home Office,2023,July,High
+ORD-1232,2023-11-19,Product-599,Technology,Phones,520.54,4,0.1,1.5,Central,CUST-7835,Corporate,2023,November,High
+ORD-1233,2023-03-07,Product-995,Furniture,Chairs,145.17,10,0.1,-10.43,East,CUST-1933,Consumer,2023,March,Medium
+ORD-1234,2023-05-26,Product-366,Technology,Phones,619.33,2,0.0,-56.76,East,CUST-2000,Corporate,2023,May,High
+ORD-1235,2022-12-21,Product-652,Technology,Accessories,891.37,5,0.0,183.82,West,CUST-7988,Consumer,2022,December,High
+ORD-1236,2022-07-08,Product-371,Furniture,Tables,446.55,6,0.2,-65.6,Central,CUST-9935,Corporate,2022,July,Medium
+ORD-1237,2022-10-17,Product-127,Technology,Copiers,357.02,7,0.2,-4.27,East,CUST-7775,Home Office,2022,October,Medium
+ORD-1238,2023-01-11,Product-543,Office Supplies,Binders,857.41,10,0.0,-114.0,Central,CUST-9729,Consumer,2023,January,High
+ORD-1239,2023-11-26,Product-864,Office Supplies,Paper,906.21,2,0.2,95.68,East,CUST-1612,Corporate,2023,November,High
+ORD-1240,2022-06-08,Product-863,Furniture,Bookcases,457.59,1,0.0,7.49,Central,CUST-3131,Corporate,2022,June,Medium
+ORD-1241,2023-06-23,Product-114,Furniture,Tables,948.94,8,0.1,239.29,West,CUST-7895,Consumer,2023,June,High
+ORD-1242,2022-05-01,Product-878,Office Supplies,Storage,870.76,10,0.0,0.2,South,CUST-7027,Corporate,2022,May,High
+ORD-1243,2023-09-24,Product-105,Office Supplies,Paper,187.87,4,0.3,-1.9,West,CUST-3899,Home Office,2023,September,Medium
+ORD-1244,2023-11-23,Product-697,Furniture,Chairs,621.0,10,0.1,77.31,West,CUST-9994,Corporate,2023,November,High
+ORD-1245,2022-07-25,Product-257,Office Supplies,Binders,798.3,10,0.3,-7.8,West,CUST-2019,Home Office,2022,July,High
+ORD-1246,2022-03-15,Product-122,Furniture,Bookcases,634.48,10,0.1,150.29,East,CUST-8915,Home Office,2022,March,High
+ORD-1247,2023-09-27,Product-339,Furniture,Tables,836.79,10,0.2,-76.72,West,CUST-6656,Home Office,2023,September,High
+ORD-1248,2022-07-16,Product-698,Technology,Accessories,833.5,4,0.2,179.85,Central,CUST-6904,Corporate,2022,July,High
+ORD-1249,2023-10-19,Product-938,Technology,Accessories,540.79,9,0.1,-73.01,West,CUST-4855,Corporate,2023,October,High
+ORD-1250,2023-03-22,Product-523,Furniture,Bookcases,539.17,9,0.0,154.02,Central,CUST-7420,Home Office,2023,March,High
+ORD-1251,2022-05-20,Product-971,Office Supplies,Paper,519.95,7,0.1,-21.27,South,CUST-2861,Consumer,2022,May,High
+ORD-1252,2022-09-11,Product-451,Technology,Accessories,486.38,10,0.3,35.72,Central,CUST-2852,Consumer,2022,September,Medium
+ORD-1253,2022-10-14,Product-559,Office Supplies,Paper,419.21,8,0.3,73.61,South,CUST-9034,Consumer,2022,October,Medium
+ORD-1254,2023-04-12,Product-732,Furniture,Tables,793.57,2,0.2,-54.32,South,CUST-2131,Consumer,2023,April,High
+ORD-1255,2022-01-09,Product-869,Furniture,Bookcases,152.33,8,0.1,6.93,East,CUST-7113,Home Office,2022,January,Medium
+ORD-1256,2023-01-04,Product-379,Office Supplies,Storage,151.09,5,0.3,19.05,South,CUST-4960,Consumer,2023,January,Medium
+ORD-1257,2023-08-04,Product-244,Technology,Accessories,375.09,10,0.3,-11.48,Central,CUST-7082,Consumer,2023,August,Medium
+ORD-1258,2022-06-06,Product-360,Furniture,Chairs,701.23,7,0.0,52.35,Central,CUST-9077,Corporate,2022,June,High
+ORD-1259,2022-06-02,Product-736,Furniture,Tables,366.3,10,0.2,23.86,West,CUST-8341,Home Office,2022,June,Medium
+ORD-1260,2023-07-01,Product-605,Office Supplies,Binders,923.29,7,0.2,-143.54,Central,CUST-6640,Consumer,2023,July,High
+ORD-1261,2022-06-08,Product-663,Office Supplies,Paper,478.53,4,0.3,21.14,Central,CUST-1305,Corporate,2022,June,Medium
+ORD-1262,2022-06-26,Product-511,Furniture,Chairs,795.89,8,0.0,7.96,West,CUST-7868,Home Office,2022,June,High
+ORD-1263,2023-06-04,Product-980,Technology,Copiers,113.91,9,0.2,0.16,West,CUST-4398,Home Office,2023,June,Medium
+ORD-1264,2023-07-08,Product-117,Office Supplies,Paper,33.42,9,0.0,-1.79,South,CUST-3116,Corporate,2023,July,Low
+ORD-1265,2023-07-14,Product-655,Office Supplies,Paper,430.05,6,0.2,39.62,South,CUST-5770,Corporate,2023,July,Medium
+ORD-1266,2023-05-28,Product-503,Technology,Copiers,522.08,5,0.2,-63.1,West,CUST-2523,Corporate,2023,May,High
+ORD-1267,2023-05-19,Product-280,Furniture,Tables,97.06,3,0.1,2.94,West,CUST-5587,Corporate,2023,May,Low
+ORD-1268,2022-07-10,Product-702,Technology,Accessories,466.89,4,0.2,-0.68,South,CUST-8864,Corporate,2022,July,Medium
+ORD-1269,2022-01-30,Product-800,Furniture,Tables,23.54,3,0.0,-1.56,East,CUST-2717,Consumer,2022,January,Low
+ORD-1270,2023-06-28,Product-440,Furniture,Chairs,639.94,8,0.2,84.59,South,CUST-9727,Home Office,2023,June,High
+ORD-1271,2022-11-10,Product-484,Furniture,Bookcases,793.33,6,0.0,-102.93,Central,CUST-4626,Corporate,2022,November,High
+ORD-1272,2023-04-14,Product-240,Office Supplies,Storage,313.05,8,0.2,20.2,Central,CUST-5776,Corporate,2023,April,Medium
+ORD-1273,2023-10-23,Product-939,Furniture,Chairs,787.65,8,0.1,36.7,East,CUST-2944,Corporate,2023,October,High
+ORD-1274,2022-05-28,Product-179,Technology,Accessories,861.62,2,0.2,43.09,West,CUST-6317,Home Office,2022,May,High
+ORD-1275,2023-06-27,Product-410,Technology,Copiers,320.99,1,0.2,26.53,South,CUST-2830,Home Office,2023,June,Medium
+ORD-1276,2023-07-10,Product-311,Furniture,Bookcases,264.07,8,0.2,-14.16,West,CUST-1581,Home Office,2023,July,Medium
+ORD-1277,2023-05-13,Product-898,Furniture,Bookcases,756.67,4,0.0,-132.36,West,CUST-4711,Corporate,2023,May,High
+ORD-1278,2023-09-08,Product-597,Technology,Accessories,674.11,7,0.0,4.23,Central,CUST-5929,Home Office,2023,September,High
+ORD-1279,2022-11-15,Product-414,Furniture,Chairs,973.57,9,0.3,-132.14,Central,CUST-2440,Consumer,2022,November,High
+ORD-1280,2022-12-15,Product-850,Furniture,Bookcases,845.95,9,0.3,-38.17,East,CUST-5462,Corporate,2022,December,High
+ORD-1281,2022-07-09,Product-179,Furniture,Tables,495.65,4,0.3,-3.27,East,CUST-6701,Corporate,2022,July,Medium
+ORD-1282,2022-04-23,Product-107,Office Supplies,Storage,316.63,5,0.1,25.08,Central,CUST-9391,Consumer,2022,April,Medium
+ORD-1283,2022-10-10,Product-916,Technology,Phones,553.76,6,0.3,-32.97,Central,CUST-6795,Consumer,2022,October,High
+ORD-1284,2022-11-11,Product-250,Furniture,Chairs,971.9,3,0.3,27.41,East,CUST-9665,Home Office,2022,November,High
+ORD-1285,2022-12-04,Product-642,Furniture,Bookcases,960.05,9,0.2,-128.16,South,CUST-5611,Consumer,2022,December,High
+ORD-1286,2022-03-02,Product-257,Technology,Phones,860.25,8,0.1,203.91,East,CUST-3977,Corporate,2022,March,High
+ORD-1287,2023-08-21,Product-442,Office Supplies,Paper,602.48,4,0.3,15.61,Central,CUST-3345,Consumer,2023,August,High
+ORD-1288,2022-08-07,Product-980,Office Supplies,Binders,498.92,1,0.3,-21.8,West,CUST-6463,Home Office,2022,August,Medium
+ORD-1289,2022-07-02,Product-702,Furniture,Tables,830.0,4,0.1,-65.08,South,CUST-6777,Corporate,2022,July,High
+ORD-1290,2023-02-15,Product-898,Technology,Phones,504.9,5,0.3,-35.02,East,CUST-7680,Home Office,2023,February,High
+ORD-1291,2022-05-09,Product-691,Furniture,Chairs,837.24,2,0.3,77.23,East,CUST-5494,Corporate,2022,May,High
+ORD-1292,2022-08-30,Product-594,Furniture,Bookcases,748.66,10,0.3,101.11,Central,CUST-3978,Corporate,2022,August,High
+ORD-1293,2022-04-28,Product-691,Office Supplies,Storage,155.55,10,0.3,24.87,Central,CUST-4808,Home Office,2022,April,Medium
+ORD-1294,2022-11-02,Product-637,Office Supplies,Paper,348.21,2,0.2,-37.25,West,CUST-7243,Consumer,2022,November,Medium
+ORD-1295,2023-09-29,Product-634,Technology,Accessories,639.21,6,0.0,-71.17,Central,CUST-7939,Consumer,2023,September,High
+ORD-1296,2022-03-20,Product-488,Furniture,Bookcases,168.93,8,0.0,30.1,South,CUST-5637,Corporate,2022,March,Medium
+ORD-1297,2022-09-21,Product-844,Office Supplies,Storage,947.14,5,0.0,23.57,Central,CUST-9245,Corporate,2022,September,High
+ORD-1298,2023-08-16,Product-639,Office Supplies,Storage,835.87,10,0.2,181.78,West,CUST-6750,Corporate,2023,August,High
+ORD-1299,2022-04-06,Product-459,Office Supplies,Paper,501.37,5,0.3,35.97,East,CUST-7555,Home Office,2022,April,High
+ORD-1300,2022-12-28,Product-744,Furniture,Bookcases,126.58,2,0.0,-10.5,East,CUST-9942,Home Office,2022,December,Medium
+ORD-1301,2023-09-06,Product-742,Office Supplies,Paper,626.12,8,0.0,-96.64,Central,CUST-1212,Consumer,2023,September,High
+ORD-1302,2022-01-18,Product-576,Office Supplies,Storage,160.74,7,0.1,28.31,South,CUST-7480,Home Office,2022,January,Medium
+ORD-1303,2022-08-08,Product-668,Furniture,Tables,677.38,7,0.2,-71.33,South,CUST-8184,Consumer,2022,August,High
+ORD-1304,2023-03-06,Product-517,Furniture,Tables,361.98,2,0.2,-8.62,Central,CUST-6212,Consumer,2023,March,Medium
+ORD-1305,2022-07-08,Product-223,Furniture,Chairs,855.49,7,0.0,227.79,West,CUST-2009,Corporate,2022,July,High
+ORD-1306,2023-05-16,Product-395,Furniture,Chairs,25.06,5,0.0,4.86,East,CUST-9784,Home Office,2023,May,Low
+ORD-1307,2023-08-29,Product-801,Technology,Accessories,500.78,6,0.3,12.38,Central,CUST-7009,Consumer,2023,August,High
+ORD-1308,2023-07-20,Product-682,Office Supplies,Storage,817.3,2,0.0,0.16,West,CUST-3917,Corporate,2023,July,High
+ORD-1309,2023-11-01,Product-786,Furniture,Bookcases,658.34,6,0.0,124.08,South,CUST-5612,Home Office,2023,November,High
+ORD-1310,2023-05-09,Product-331,Office Supplies,Storage,435.84,8,0.1,-31.14,South,CUST-8481,Corporate,2023,May,Medium
+ORD-1311,2022-03-14,Product-141,Furniture,Chairs,827.74,7,0.2,-14.49,Central,CUST-2570,Consumer,2022,March,High
+ORD-1312,2023-01-21,Product-247,Office Supplies,Binders,70.62,2,0.1,-0.29,South,CUST-4062,Home Office,2023,January,Low
+ORD-1313,2022-07-04,Product-475,Office Supplies,Storage,233.18,4,0.3,29.25,East,CUST-4455,Consumer,2022,July,Medium
+ORD-1314,2023-07-21,Product-538,Technology,Copiers,698.36,5,0.2,83.03,South,CUST-6258,Corporate,2023,July,High
+ORD-1315,2023-01-30,Product-528,Technology,Phones,548.71,3,0.1,147.41,South,CUST-2325,Consumer,2023,January,High
+ORD-1316,2023-06-21,Product-774,Office Supplies,Paper,40.49,10,0.3,-0.3,South,CUST-8768,Home Office,2023,June,Low
+ORD-1317,2022-08-17,Product-691,Furniture,Bookcases,965.07,3,0.1,90.31,East,CUST-3532,Home Office,2022,August,High
+ORD-1318,2023-03-07,Product-504,Office Supplies,Binders,248.92,1,0.3,49.02,East,CUST-1613,Corporate,2023,March,Medium
+ORD-1319,2022-09-26,Product-733,Office Supplies,Paper,565.34,9,0.1,-86.79,Central,CUST-7315,Home Office,2022,September,High
+ORD-1320,2023-09-25,Product-148,Office Supplies,Binders,754.87,3,0.2,28.76,Central,CUST-2623,Home Office,2023,September,High
+ORD-1321,2023-02-06,Product-281,Technology,Copiers,450.51,1,0.1,-59.59,South,CUST-6187,Consumer,2023,February,Medium
+ORD-1322,2023-06-25,Product-325,Technology,Accessories,160.74,2,0.2,12.05,West,CUST-5750,Home Office,2023,June,Medium
+ORD-1323,2023-02-10,Product-251,Furniture,Chairs,994.22,1,0.3,-130.52,South,CUST-7878,Home Office,2023,February,High
+ORD-1324,2022-10-21,Product-278,Furniture,Bookcases,645.5,7,0.0,35.4,West,CUST-8988,Consumer,2022,October,High
+ORD-1325,2022-06-18,Product-463,Technology,Copiers,62.6,9,0.1,2.55,Central,CUST-1456,Consumer,2022,June,Low
+ORD-1326,2022-11-06,Product-272,Office Supplies,Binders,463.01,2,0.0,91.2,South,CUST-5914,Home Office,2022,November,Medium
+ORD-1327,2022-03-13,Product-511,Office Supplies,Storage,713.13,3,0.3,99.27,Central,CUST-6735,Corporate,2022,March,High
+ORD-1328,2023-03-21,Product-864,Office Supplies,Binders,666.79,3,0.3,9.37,East,CUST-3311,Corporate,2023,March,High
+ORD-1329,2022-12-21,Product-900,Furniture,Chairs,570.02,1,0.3,17.06,South,CUST-7359,Home Office,2022,December,High
+ORD-1330,2023-08-06,Product-641,Office Supplies,Paper,425.43,5,0.2,3.51,West,CUST-4606,Consumer,2023,August,Medium
+ORD-1331,2023-08-08,Product-618,Furniture,Tables,959.13,10,0.1,147.48,West,CUST-9354,Home Office,2023,August,High
+ORD-1332,2023-05-07,Product-741,Technology,Copiers,67.88,8,0.3,0.83,West,CUST-5385,Corporate,2023,May,Low
+ORD-1333,2022-02-23,Product-173,Furniture,Chairs,422.01,7,0.3,55.21,East,CUST-8314,Home Office,2022,February,Medium
+ORD-1334,2023-10-16,Product-716,Technology,Phones,500.69,6,0.3,-3.01,Central,CUST-9521,Corporate,2023,October,High
+ORD-1335,2022-11-15,Product-340,Office Supplies,Storage,691.1,8,0.3,111.66,East,CUST-5635,Corporate,2022,November,High
+ORD-1336,2022-09-21,Product-246,Technology,Accessories,319.2,10,0.1,41.77,South,CUST-6361,Home Office,2022,September,Medium
+ORD-1337,2023-10-07,Product-512,Technology,Copiers,598.09,5,0.1,61.45,Central,CUST-7774,Consumer,2023,October,High
+ORD-1338,2023-07-15,Product-225,Technology,Phones,911.89,9,0.2,-145.1,East,CUST-1016,Consumer,2023,July,High
+ORD-1339,2022-10-01,Product-285,Office Supplies,Storage,25.88,2,0.1,5.11,West,CUST-2463,Home Office,2022,October,Low
+ORD-1340,2022-09-12,Product-274,Office Supplies,Binders,746.25,9,0.0,-72.21,Central,CUST-3275,Consumer,2022,September,High
+ORD-1341,2023-05-06,Product-299,Office Supplies,Paper,898.3,4,0.1,52.15,South,CUST-2036,Home Office,2023,May,High
+ORD-1342,2022-12-01,Product-340,Office Supplies,Storage,636.81,3,0.1,-55.2,South,CUST-6292,Corporate,2022,December,High
+ORD-1343,2022-10-15,Product-519,Technology,Copiers,961.61,1,0.0,278.97,West,CUST-4390,Corporate,2022,October,High
+ORD-1344,2022-05-20,Product-755,Office Supplies,Binders,141.7,6,0.3,18.25,Central,CUST-8005,Home Office,2022,May,Medium
+ORD-1345,2022-06-01,Product-641,Furniture,Tables,932.38,4,0.0,-26.44,East,CUST-5020,Home Office,2022,June,High
+ORD-1346,2022-08-22,Product-793,Furniture,Tables,977.14,5,0.2,-99.08,South,CUST-6187,Corporate,2022,August,High
+ORD-1347,2023-08-18,Product-358,Office Supplies,Storage,708.6,6,0.2,-22.89,Central,CUST-2630,Consumer,2023,August,High
+ORD-1348,2023-08-15,Product-482,Technology,Accessories,406.5,1,0.0,49.05,South,CUST-4544,Consumer,2023,August,Medium
+ORD-1349,2022-06-11,Product-572,Furniture,Tables,547.68,10,0.2,108.41,Central,CUST-3790,Home Office,2022,June,High
+ORD-1350,2022-11-26,Product-125,Technology,Accessories,271.38,2,0.2,-10.02,East,CUST-2635,Consumer,2022,November,Medium
+ORD-1351,2023-02-24,Product-289,Furniture,Tables,602.32,4,0.1,-20.54,East,CUST-2464,Corporate,2023,February,High
+ORD-1352,2022-04-29,Product-471,Furniture,Tables,50.97,5,0.0,-3.05,East,CUST-5015,Corporate,2022,April,Low
+ORD-1353,2023-04-06,Product-548,Furniture,Tables,347.33,5,0.0,62.13,East,CUST-7164,Corporate,2023,April,Medium
+ORD-1354,2023-12-27,Product-587,Technology,Phones,203.1,6,0.1,24.38,West,CUST-6584,Consumer,2023,December,Medium
+ORD-1355,2022-02-10,Product-820,Office Supplies,Paper,235.63,2,0.3,-5.84,West,CUST-1655,Corporate,2022,February,Medium
+ORD-1356,2023-01-20,Product-623,Technology,Copiers,433.58,7,0.1,-65.12,Central,CUST-9075,Corporate,2023,January,Medium
+ORD-1357,2023-11-17,Product-512,Furniture,Chairs,507.27,7,0.0,-4.98,East,CUST-3127,Consumer,2023,November,High
+ORD-1358,2022-10-14,Product-836,Office Supplies,Paper,756.8,3,0.0,21.8,West,CUST-7944,Consumer,2022,October,High
+ORD-1359,2022-06-24,Product-577,Technology,Accessories,741.66,3,0.0,220.77,East,CUST-3997,Home Office,2022,June,High
+ORD-1360,2022-07-11,Product-939,Furniture,Tables,818.3,10,0.3,48.87,East,CUST-2154,Consumer,2022,July,High
+ORD-1361,2023-03-08,Product-932,Office Supplies,Binders,73.58,4,0.0,2.7,Central,CUST-2535,Home Office,2023,March,Low
+ORD-1362,2022-05-08,Product-619,Office Supplies,Storage,712.67,7,0.2,103.7,West,CUST-4007,Corporate,2022,May,High
+ORD-1363,2023-04-27,Product-448,Furniture,Tables,777.83,2,0.1,-126.17,West,CUST-7349,Home Office,2023,April,High
+ORD-1364,2022-03-28,Product-610,Furniture,Bookcases,312.95,9,0.2,-33.05,South,CUST-4473,Corporate,2022,March,Medium
+ORD-1365,2022-11-25,Product-845,Furniture,Bookcases,215.87,2,0.2,-29.41,East,CUST-6901,Home Office,2022,November,Medium
+ORD-1366,2023-09-18,Product-633,Office Supplies,Paper,476.03,7,0.3,14.77,East,CUST-8024,Corporate,2023,September,Medium
+ORD-1367,2022-08-25,Product-847,Furniture,Bookcases,573.27,6,0.2,122.35,West,CUST-8449,Consumer,2022,August,High
+ORD-1368,2023-01-11,Product-173,Furniture,Bookcases,713.18,6,0.2,-69.78,West,CUST-5925,Corporate,2023,January,High
+ORD-1369,2022-06-19,Product-949,Furniture,Bookcases,621.21,8,0.0,-65.48,Central,CUST-3453,Home Office,2022,June,High
+ORD-1370,2023-11-29,Product-730,Furniture,Tables,414.93,5,0.1,14.04,East,CUST-7062,Corporate,2023,November,Medium
+ORD-1371,2023-03-16,Product-245,Technology,Accessories,285.12,8,0.2,67.0,East,CUST-1718,Consumer,2023,March,Medium
+ORD-1372,2022-02-28,Product-648,Furniture,Tables,906.91,10,0.3,166.19,West,CUST-4239,Corporate,2022,February,High
+ORD-1373,2023-06-24,Product-939,Technology,Phones,721.02,1,0.2,80.7,East,CUST-2124,Home Office,2023,June,High
+ORD-1374,2022-02-04,Product-883,Furniture,Bookcases,706.88,4,0.2,107.46,Central,CUST-4153,Home Office,2022,February,High
+ORD-1375,2023-03-13,Product-317,Furniture,Bookcases,519.81,9,0.2,-46.44,East,CUST-8382,Corporate,2023,March,High
+ORD-1376,2022-06-10,Product-208,Furniture,Tables,586.63,4,0.2,-19.28,South,CUST-4503,Home Office,2022,June,High
+ORD-1377,2022-10-21,Product-538,Technology,Copiers,896.77,8,0.2,26.49,West,CUST-1370,Corporate,2022,October,High
+ORD-1378,2023-01-10,Product-922,Furniture,Tables,136.56,1,0.1,13.56,East,CUST-8400,Corporate,2023,January,Medium
+ORD-1379,2022-08-22,Product-433,Office Supplies,Paper,739.54,5,0.1,-91.06,South,CUST-3000,Consumer,2022,August,High
+ORD-1380,2023-02-27,Product-548,Furniture,Bookcases,943.92,4,0.0,189.48,West,CUST-6455,Corporate,2023,February,High
+ORD-1381,2023-06-02,Product-115,Furniture,Tables,451.79,6,0.1,13.33,East,CUST-7741,Home Office,2023,June,Medium
+ORD-1382,2022-05-16,Product-142,Furniture,Chairs,234.44,6,0.1,43.29,West,CUST-8573,Consumer,2022,May,Medium
+ORD-1383,2023-07-29,Product-912,Technology,Phones,992.52,4,0.3,197.26,East,CUST-4761,Home Office,2023,July,High
+ORD-1384,2022-07-15,Product-535,Technology,Phones,312.79,6,0.2,-3.5,South,CUST-1900,Consumer,2022,July,Medium
+ORD-1385,2023-01-27,Product-367,Furniture,Tables,996.67,5,0.0,134.09,West,CUST-8280,Home Office,2023,January,High
+ORD-1386,2022-01-24,Product-196,Office Supplies,Paper,469.13,6,0.1,-15.9,West,CUST-3677,Corporate,2022,January,Medium
+ORD-1387,2023-06-11,Product-639,Office Supplies,Paper,91.42,4,0.0,9.36,East,CUST-2868,Consumer,2023,June,Low
+ORD-1388,2023-01-14,Product-102,Furniture,Bookcases,674.47,2,0.0,159.4,East,CUST-4610,Home Office,2023,January,High
+ORD-1389,2023-08-27,Product-554,Furniture,Chairs,301.0,1,0.2,-8.34,South,CUST-8094,Consumer,2023,August,Medium
+ORD-1390,2023-08-23,Product-698,Furniture,Chairs,51.64,7,0.3,5.15,South,CUST-8162,Home Office,2023,August,Low
+ORD-1391,2022-11-13,Product-389,Technology,Accessories,846.46,9,0.2,-10.75,East,CUST-3467,Corporate,2022,November,High
+ORD-1392,2023-06-23,Product-211,Furniture,Chairs,461.44,8,0.0,-18.02,East,CUST-7301,Consumer,2023,June,Medium
+ORD-1393,2023-05-17,Product-379,Technology,Accessories,708.43,9,0.2,57.07,South,CUST-4075,Consumer,2023,May,High
+ORD-1394,2022-01-11,Product-704,Office Supplies,Paper,256.86,8,0.1,-20.38,Central,CUST-8385,Home Office,2022,January,Medium
+ORD-1395,2022-10-11,Product-799,Furniture,Bookcases,303.7,4,0.3,-41.04,South,CUST-3710,Consumer,2022,October,Medium
+ORD-1396,2023-11-18,Product-166,Furniture,Tables,982.93,8,0.1,21.64,Central,CUST-2401,Corporate,2023,November,High
+ORD-1397,2023-05-03,Product-892,Office Supplies,Paper,622.22,6,0.1,32.85,Central,CUST-2896,Home Office,2023,May,High
+ORD-1398,2022-02-24,Product-801,Office Supplies,Binders,417.03,6,0.3,-28.72,East,CUST-9982,Corporate,2022,February,Medium
+ORD-1399,2023-07-23,Product-186,Office Supplies,Storage,106.21,8,0.3,-11.13,West,CUST-7988,Corporate,2023,July,Medium
+ORD-1400,2023-08-24,Product-534,Technology,Accessories,521.98,8,0.1,-70.71,Central,CUST-4944,Home Office,2023,August,High
+ORD-1401,2023-12-10,Product-797,Furniture,Bookcases,800.43,1,0.1,-26.35,West,CUST-1190,Consumer,2023,December,High
+ORD-1402,2023-02-09,Product-976,Furniture,Bookcases,964.53,4,0.2,225.9,South,CUST-7972,Consumer,2023,February,High
+ORD-1403,2023-08-24,Product-536,Furniture,Bookcases,753.29,5,0.0,-46.89,West,CUST-6258,Corporate,2023,August,High
+ORD-1404,2023-02-03,Product-860,Furniture,Tables,446.03,4,0.3,26.11,West,CUST-3069,Home Office,2023,February,Medium
+ORD-1405,2022-06-26,Product-497,Technology,Phones,242.72,9,0.0,-11.25,West,CUST-3351,Corporate,2022,June,Medium
+ORD-1406,2022-05-03,Product-394,Technology,Phones,235.28,5,0.0,40.9,Central,CUST-5501,Home Office,2022,May,Medium
+ORD-1407,2023-03-02,Product-980,Furniture,Tables,524.82,9,0.0,146.39,East,CUST-2008,Corporate,2023,March,High
+ORD-1408,2022-12-15,Product-154,Office Supplies,Paper,813.36,5,0.0,90.63,West,CUST-8559,Corporate,2022,December,High
+ORD-1409,2022-03-09,Product-990,Furniture,Tables,829.13,6,0.1,42.68,West,CUST-6044,Consumer,2022,March,High
+ORD-1410,2023-04-29,Product-308,Office Supplies,Storage,765.41,3,0.2,111.32,South,CUST-9179,Corporate,2023,April,High
+ORD-1411,2023-08-08,Product-525,Technology,Accessories,236.42,7,0.2,-34.26,East,CUST-2888,Consumer,2023,August,Medium
+ORD-1412,2022-06-03,Product-221,Technology,Copiers,986.72,8,0.3,-104.96,West,CUST-3807,Consumer,2022,June,High
+ORD-1413,2022-04-01,Product-533,Technology,Phones,802.28,6,0.1,-57.67,East,CUST-5862,Home Office,2022,April,High
+ORD-1414,2022-05-20,Product-937,Technology,Phones,213.06,8,0.3,-27.39,South,CUST-1508,Consumer,2022,May,Medium
+ORD-1415,2023-06-13,Product-179,Technology,Accessories,113.07,3,0.1,-13.18,Central,CUST-4202,Home Office,2023,June,Medium
+ORD-1416,2023-11-30,Product-836,Technology,Copiers,437.24,7,0.2,81.74,East,CUST-4224,Corporate,2023,November,Medium
+ORD-1417,2022-08-27,Product-699,Technology,Accessories,361.01,6,0.3,75.29,West,CUST-4207,Home Office,2022,August,Medium
+ORD-1418,2022-09-20,Product-785,Technology,Phones,290.04,2,0.2,-7.59,West,CUST-3197,Consumer,2022,September,Medium
+ORD-1419,2022-10-08,Product-333,Furniture,Bookcases,653.88,3,0.3,-63.42,West,CUST-8801,Consumer,2022,October,High
+ORD-1420,2022-03-22,Product-862,Technology,Accessories,467.6,5,0.0,11.57,South,CUST-6989,Corporate,2022,March,Medium
+ORD-1421,2023-12-27,Product-937,Furniture,Tables,61.85,10,0.0,-5.25,South,CUST-3691,Corporate,2023,December,Low
+ORD-1422,2022-11-11,Product-286,Technology,Accessories,74.98,5,0.0,-7.89,East,CUST-2802,Consumer,2022,November,Low
+ORD-1423,2023-04-05,Product-749,Technology,Copiers,56.01,10,0.2,-6.88,East,CUST-3908,Consumer,2023,April,Low
+ORD-1424,2022-08-27,Product-369,Furniture,Tables,380.55,4,0.3,-18.41,West,CUST-5213,Home Office,2022,August,Medium
+ORD-1425,2022-03-28,Product-143,Furniture,Tables,227.17,8,0.1,-8.98,South,CUST-5778,Consumer,2022,March,Medium
+ORD-1426,2022-01-09,Product-271,Technology,Phones,53.32,5,0.0,6.96,West,CUST-6809,Corporate,2022,January,Low
+ORD-1427,2022-01-02,Product-355,Technology,Copiers,378.46,9,0.0,-4.51,West,CUST-1796,Consumer,2022,January,Medium
+ORD-1428,2023-10-31,Product-169,Furniture,Tables,987.53,3,0.3,26.06,East,CUST-1196,Consumer,2023,October,High
+ORD-1429,2023-12-09,Product-953,Office Supplies,Paper,54.15,3,0.1,-6.34,South,CUST-5162,Corporate,2023,December,Low
+ORD-1430,2023-09-26,Product-315,Office Supplies,Binders,697.71,2,0.3,31.18,West,CUST-9318,Corporate,2023,September,High
+ORD-1431,2022-01-14,Product-409,Technology,Phones,40.73,2,0.0,6.01,East,CUST-2004,Home Office,2022,January,Low
+ORD-1432,2023-04-04,Product-312,Technology,Accessories,712.93,2,0.2,42.27,West,CUST-5758,Corporate,2023,April,High
+ORD-1433,2023-05-10,Product-626,Furniture,Bookcases,785.74,6,0.1,105.01,East,CUST-8799,Consumer,2023,May,High
+ORD-1434,2022-04-05,Product-788,Furniture,Tables,49.86,6,0.3,-0.37,Central,CUST-6319,Consumer,2022,April,Low
+ORD-1435,2023-04-16,Product-426,Office Supplies,Binders,621.66,4,0.1,76.24,West,CUST-8775,Consumer,2023,April,High
+ORD-1436,2023-08-08,Product-446,Furniture,Chairs,705.01,9,0.0,56.53,East,CUST-6538,Corporate,2023,August,High
+ORD-1437,2022-09-08,Product-658,Office Supplies,Paper,816.83,9,0.1,-146.66,South,CUST-4818,Consumer,2022,September,High
+ORD-1438,2023-06-04,Product-540,Furniture,Bookcases,572.03,1,0.1,-4.36,South,CUST-7908,Consumer,2023,June,High
+ORD-1439,2022-03-03,Product-136,Technology,Phones,846.93,9,0.3,89.83,South,CUST-3513,Consumer,2022,March,High
+ORD-1440,2022-04-22,Product-715,Furniture,Bookcases,875.83,8,0.3,20.27,Central,CUST-9808,Corporate,2022,April,High
+ORD-1441,2023-05-01,Product-258,Technology,Phones,779.68,5,0.0,79.38,East,CUST-7838,Home Office,2023,May,High
+ORD-1442,2022-04-07,Product-650,Office Supplies,Paper,97.46,2,0.0,4.16,West,CUST-2052,Corporate,2022,April,Low
+ORD-1443,2023-10-08,Product-581,Office Supplies,Paper,820.45,2,0.2,129.29,East,CUST-2178,Consumer,2023,October,High
+ORD-1444,2023-06-24,Product-763,Office Supplies,Storage,901.39,2,0.2,142.89,West,CUST-2016,Home Office,2023,June,High
+ORD-1445,2023-07-10,Product-934,Furniture,Tables,410.96,9,0.3,-18.79,West,CUST-4967,Consumer,2023,July,Medium
+ORD-1446,2023-07-19,Product-540,Furniture,Tables,844.08,8,0.3,85.92,West,CUST-6993,Consumer,2023,July,High
+ORD-1447,2022-04-24,Product-758,Office Supplies,Binders,361.19,10,0.2,-11.11,Central,CUST-3911,Home Office,2022,April,Medium
+ORD-1448,2023-11-17,Product-484,Technology,Accessories,474.21,5,0.2,45.13,Central,CUST-8743,Home Office,2023,November,Medium
+ORD-1449,2023-10-18,Product-862,Office Supplies,Storage,128.3,3,0.1,-15.27,South,CUST-2941,Consumer,2023,October,Medium
+ORD-1450,2023-12-24,Product-836,Furniture,Tables,199.25,6,0.2,-25.37,South,CUST-5909,Consumer,2023,December,Medium
+ORD-1451,2022-11-25,Product-397,Office Supplies,Storage,244.61,9,0.2,8.83,South,CUST-1790,Home Office,2022,November,Medium
+ORD-1452,2022-10-18,Product-920,Technology,Phones,68.17,5,0.0,-3.51,Central,CUST-7742,Home Office,2022,October,Low
+ORD-1453,2022-12-24,Product-295,Furniture,Tables,793.95,3,0.2,55.49,South,CUST-8194,Consumer,2022,December,High
+ORD-1454,2023-03-17,Product-747,Technology,Accessories,74.49,1,0.0,-8.5,West,CUST-1965,Home Office,2023,March,Low
+ORD-1455,2023-01-14,Product-405,Technology,Copiers,109.07,8,0.0,0.33,West,CUST-2700,Home Office,2023,January,Medium
+ORD-1456,2023-11-22,Product-890,Technology,Copiers,938.24,1,0.2,-44.62,South,CUST-7346,Corporate,2023,November,High
+ORD-1457,2023-04-21,Product-964,Office Supplies,Storage,165.62,8,0.2,-20.3,South,CUST-1230,Corporate,2023,April,Medium
+ORD-1458,2023-11-04,Product-932,Furniture,Tables,828.82,7,0.2,163.74,West,CUST-9135,Home Office,2023,November,High
+ORD-1459,2022-10-21,Product-549,Technology,Copiers,649.58,3,0.2,-86.14,West,CUST-5812,Home Office,2022,October,High
+ORD-1460,2022-12-30,Product-939,Furniture,Chairs,174.55,9,0.1,-6.33,East,CUST-1172,Home Office,2022,December,Medium
+ORD-1461,2022-11-09,Product-508,Furniture,Chairs,578.08,2,0.0,168.66,South,CUST-4960,Consumer,2022,November,High
+ORD-1462,2023-06-11,Product-870,Furniture,Bookcases,842.96,5,0.0,140.7,West,CUST-3427,Home Office,2023,June,High
+ORD-1463,2023-07-10,Product-561,Furniture,Bookcases,598.13,7,0.2,-94.57,South,CUST-8459,Consumer,2023,July,High
+ORD-1464,2023-10-09,Product-853,Furniture,Bookcases,89.89,1,0.2,21.22,West,CUST-8054,Corporate,2023,October,Low
+ORD-1465,2022-04-14,Product-349,Technology,Phones,731.01,1,0.0,116.65,West,CUST-1391,Consumer,2022,April,High
+ORD-1466,2023-09-05,Product-769,Furniture,Chairs,670.46,5,0.3,-43.09,West,CUST-7110,Corporate,2023,September,High
+ORD-1467,2022-04-28,Product-924,Furniture,Bookcases,674.46,6,0.0,4.04,East,CUST-5682,Consumer,2022,April,High
+ORD-1468,2023-03-01,Product-119,Office Supplies,Binders,294.21,10,0.1,78.72,Central,CUST-4262,Consumer,2023,March,Medium
+ORD-1469,2023-03-22,Product-458,Office Supplies,Paper,986.84,5,0.2,-156.36,Central,CUST-2793,Home Office,2023,March,High
+ORD-1470,2022-07-20,Product-878,Furniture,Tables,259.82,5,0.2,34.73,East,CUST-4192,Corporate,2022,July,Medium
+ORD-1471,2023-11-18,Product-633,Furniture,Tables,185.17,4,0.2,33.91,Central,CUST-6119,Consumer,2023,November,Medium
+ORD-1472,2023-10-22,Product-503,Technology,Phones,384.93,6,0.1,-62.29,East,CUST-8937,Corporate,2023,October,Medium
+ORD-1473,2023-01-14,Product-113,Technology,Accessories,259.76,2,0.0,11.63,Central,CUST-1102,Corporate,2023,January,Medium
+ORD-1474,2023-11-01,Product-443,Furniture,Tables,581.86,4,0.1,50.88,South,CUST-5611,Corporate,2023,November,High
+ORD-1475,2022-01-20,Product-816,Furniture,Bookcases,896.6,10,0.3,-8.78,Central,CUST-5707,Corporate,2022,January,High
+ORD-1476,2022-07-09,Product-690,Furniture,Chairs,521.64,1,0.0,-54.66,East,CUST-5639,Home Office,2022,July,High
+ORD-1477,2022-07-30,Product-282,Technology,Phones,958.9,3,0.1,218.95,West,CUST-1726,Home Office,2022,July,High
+ORD-1478,2023-04-17,Product-346,Technology,Accessories,91.07,4,0.2,6.32,Central,CUST-1146,Corporate,2023,April,Low
+ORD-1479,2023-06-06,Product-251,Furniture,Chairs,873.53,5,0.2,-123.18,East,CUST-5364,Home Office,2023,June,High
+ORD-1480,2022-07-12,Product-414,Furniture,Bookcases,422.57,10,0.2,-15.82,South,CUST-8751,Consumer,2022,July,Medium
+ORD-1481,2022-02-22,Product-985,Furniture,Chairs,814.01,4,0.0,18.41,Central,CUST-2489,Home Office,2022,February,High
+ORD-1482,2023-10-16,Product-118,Technology,Accessories,308.29,2,0.3,5.47,Central,CUST-7310,Home Office,2023,October,Medium
+ORD-1483,2023-09-20,Product-804,Office Supplies,Binders,908.7,6,0.1,35.49,Central,CUST-1142,Corporate,2023,September,High
+ORD-1484,2023-07-22,Product-211,Furniture,Tables,248.48,8,0.2,-26.77,Central,CUST-7109,Home Office,2023,July,Medium
+ORD-1485,2022-10-08,Product-338,Technology,Phones,771.83,3,0.3,52.15,West,CUST-1463,Home Office,2022,October,High
+ORD-1486,2022-06-17,Product-165,Office Supplies,Paper,650.95,5,0.1,-21.95,East,CUST-7972,Home Office,2022,June,High
+ORD-1487,2023-08-16,Product-774,Office Supplies,Binders,763.95,5,0.1,183.52,West,CUST-4662,Home Office,2023,August,High
+ORD-1488,2023-01-04,Product-447,Office Supplies,Storage,166.52,8,0.0,43.59,South,CUST-3716,Home Office,2023,January,Medium
+ORD-1489,2023-03-30,Product-529,Technology,Accessories,700.13,7,0.3,44.7,Central,CUST-6589,Home Office,2023,March,High
+ORD-1490,2022-05-21,Product-800,Furniture,Tables,446.09,4,0.0,129.02,South,CUST-1035,Home Office,2022,May,Medium
+ORD-1491,2022-03-27,Product-912,Technology,Copiers,955.34,2,0.0,-95.85,South,CUST-9334,Corporate,2022,March,High
+ORD-1492,2023-09-23,Product-443,Furniture,Tables,923.3,10,0.0,-136.79,West,CUST-7956,Home Office,2023,September,High
+ORD-1493,2023-06-10,Product-180,Technology,Copiers,777.0,7,0.2,37.42,South,CUST-3444,Corporate,2023,June,High
+ORD-1494,2023-05-26,Product-932,Furniture,Tables,717.74,7,0.3,130.98,Central,CUST-9828,Corporate,2023,May,High
+ORD-1495,2023-09-08,Product-104,Furniture,Bookcases,523.17,10,0.2,66.46,West,CUST-2294,Consumer,2023,September,High
+ORD-1496,2023-02-09,Product-380,Furniture,Chairs,797.73,5,0.3,55.77,South,CUST-5511,Corporate,2023,February,High
+ORD-1497,2023-01-19,Product-967,Furniture,Tables,449.57,7,0.1,-60.9,West,CUST-6950,Home Office,2023,January,Medium
+ORD-1498,2022-02-06,Product-822,Office Supplies,Binders,954.27,6,0.2,-146.49,South,CUST-9031,Corporate,2022,February,High
+ORD-1499,2022-01-29,Product-849,Furniture,Tables,814.71,7,0.1,-33.89,Central,CUST-6846,Home Office,2022,January,High
